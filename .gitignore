@@ -1,0 +1,20 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Coverage and profiling
+*.out
+coverage.*
+*.coverprofile
+cpu.prof
+mem.prof
+
+# Go workspace/cache
+.gocache/
+
